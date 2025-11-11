@@ -3,7 +3,7 @@
 
 BopBot is a machine learning project that predicts a song’s popularity using a Multi-Layer Perceptron (MLP). By analyzing patterns in musical attributes, BopBot aims to uncover the key elements behind a hit song—offering insights for songwriters, producers, and streaming platforms alike.
 
-## 👥 Contributors: Lia Mathews, Andrea Ayon, Jillian Russell, Emily Freeman
+Contributors: Lia Mathews, Andrea Ayon, Jillian Russell, Emily Freeman
 
 ## Overview
 
